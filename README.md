@@ -34,10 +34,11 @@ with tblheader being a one-row matrix to append, and sessionfile being the times
 
 The csv file can later be used for analysis of the preference.
 
-Notes:
+## Notes
 
 * The images were downloaded from a jewelry seller's website using [Simple mass downloader](https://chrome.google.com/webstore/detail/simple-mass-downloader/abdkkegmcbiomijcbdaodaflgehfffed) Chrome extension.
 * It supports several 100s of images.
+* App displays well on a Smartphone also.
 * Why would one use R Shiny for this? Yes, there are a lot of frameworks that would do the job, but why not Shiny? As I would also do the user's data analysis in R later, it's a tool that is easily available and fast for an app one needs nothing but a one-use prototype.
 
 
