@@ -1,0 +1,11 @@
+.Rhistory
+.Rapp.history
+.RData
+
+*.bak
+*.csv
+*.fth
+/*.bak
+/*.bak/
+/analysis/
+analysis/
